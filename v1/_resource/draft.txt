@@ -70,11 +70,15 @@ flow
 sample
 <img src="https://placehold.jp/3d4070/ffffff/486x225.png?text=sample" alt="sample">
 
+----------
+
 株式会社髙田工芸社
 
 〒169-0075
 東京都新宿区高田馬場２丁目１１−１０
 TEL 03-3205-3611 / FAX 03-3207-1710
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12958.043121028251!2d139.7076591!3d35.7136547!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2e95795e898cc083!2z5p2x5Lqs44OH44K244Kk44Oz44OG44Kv44OO44Ot44K444O844K744Oz44K_44O85bCC6ZaA5a2m5qCh!5e0!3m2!1sja!2sjp!4v1626314774674!5m2!1sja!2sjp" allowfullscreen="" loading="lazy"></iframe>
 
 ----------
 
